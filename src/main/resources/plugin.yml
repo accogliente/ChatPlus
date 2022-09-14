@@ -1,0 +1,4 @@
+name: ChatPlus
+version: '${project.version}'
+main: me.accogliente.chatplus.ChatPlus
+api-version: 1.19
